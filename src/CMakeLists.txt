@@ -1,4 +1,5 @@
 # Source files
+list(APPEND SRCS keyboardlog.cpp)
 list(APPEND SRCS main.cpp)
 
 include_directories(".")
